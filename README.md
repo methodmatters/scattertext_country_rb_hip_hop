@@ -1,4 +1,4 @@
-# Data and code for blog post showing a Scattertext analysis of Country & R&B/Hip-Hop Music
+# Data and code for blog post describing a Scattertext analysis of Country & R&B/Hip-Hop Music
 
 The content here accompanies the following blog post:
 
